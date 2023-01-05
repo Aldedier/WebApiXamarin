@@ -50,9 +50,5 @@ namespace CapaDatos
             return lista;
         }
 
-        public void Algo()
-        {
-
-        }
     }
 }
